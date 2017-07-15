@@ -1,0 +1,23 @@
+{
+  "base" : "src/",
+  "css" : {
+    "src" : "styles/**/*.css",
+    "vendor" : "css/vendor/**/*.css",
+    "dest" : "css"
+  },
+  "scss" : {
+    "src" : "styles/**/*.scss",
+    "vendor" : "css/vendor/**/*.scss",
+    "dest" : "css"
+  },
+  "js" : {
+    "src" : "js/**/*.js",
+    "vendor" : "js/vendor/**/*.js",
+    "dest" : "js"
+  },
+  "fonts" : {
+    "src" : "fonts/*",
+    "vendor" : "js/vendor/**/*.js",
+    "dest" : "fonts"
+  }
+}
